@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="StartColorButtonNormal">#f6f6f7</color>
+    <color name="EndColorButtonNormal">#c1c3c5</color>
+
+    <color name="StartColorButtonSelect">#f90000</color>
+    <color name="EndColorButtonSelect">#b90000</color>
+
+    <color name="colorButtonTouch">#b7babc</color>
+    <color name="colorButtonClicked">#d60000</color>
+
+    <color name="colorMainItemBackground">#5d5d5d</color>
+    <color name="colorOtherItemBackground">#a0a0a0</color>
+
+    <color name="colorFragmentStroke">#040404</color>
+    <color name="darkgrey">#222222</color>
+    <color name="colorSeekBarStroke">#3e3e3e</color>
+    <color name="colorSeekBarStroke_bright">#5e5e5e</color>
+    <color name="colorOthersSeekBarProgress">#bfbfbf</color>
+    <color name="colorReverbSeekBar">#2dff59</color>
+    <color name="colorBtAuxSeekBar">#6fb3ff</color>
+    <color name="darkBlue">#3E3E8F</color>
+
+    <color name="halfTransparency">#50000000</color>
+    <color name="meterNum">#4dd43a</color>
+    <color name="Transparency">#00000000</color>
+    <color name="White">#ffffff</color>
+    <color name="Black">#000000</color>
+</resources>
